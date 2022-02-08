@@ -23,3 +23,4 @@
     Pretendo acrescentar validação dos dados que são adicionados, e permitir edição dos contatos sem precisar deletar.
 </p>
 
+![Lista de contatos](https://user-images.githubusercontent.com/98659450/153083499-cc3a0b03-7dd2-44c2-bc11-21ff9c3fc04a.gif)
