@@ -16,6 +16,6 @@
 
 ### Status: Em andamento
 <p> 
-    Pretendo adicionar validação dos dados que são adicionados, e permitir edição dos contatos sem precisar deletar.
+    Pretendo acrescentar validação dos dados que são adicionados, e permitir edição dos contatos sem precisar deletar.
 </p>
 
