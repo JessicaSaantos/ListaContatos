@@ -1,0 +1,104 @@
+
+        /*Estilização Cabeçalho*/
+        header {
+            background-color: #162b7b;
+            padding: 20px 0;
+        }
+        header .container {
+            width: 100%;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        
+        header figure img {
+            width: 100%;
+            max-width: 130px;
+        }
+        header h1 {
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 30px;
+            margin-top: 15px;
+            font-weight: 600;
+        }
+        
+                /*Estilização Menu 1º Seção*/
+        
+        main {
+            display: flex;
+            height: 90vh;
+        }
+        main section {
+            width: 50%;
+            padding: 100px 40px;
+        }
+        .Formulario {
+            background-color: #162b7b;
+        }
+        .Formulario__info {
+            display: flex;
+            flex-direction: column;
+            width: 450px;
+            margin: 0 0 0 auto;
+        }
+        .Formulario__info input {
+            margin-bottom: 15px;
+            height: 40px;
+            border: none;
+            border-radius: 4px;
+            padding: 0 10px;
+            font-weight: 600;
+        }
+        .Formulario__info button {
+            margin-top: 25px;
+            height: 40px;
+            background-color: hsl(0deg 0% 100% / 90%);
+            border: none;
+            border-radius: 4px;
+            text-transform: uppercase; 
+            cursor: pointer;
+            font-weight: 600;
+        }
+        
+                /*Estilização Menu 2º Seção*/
+        
+        
+        .ListaContatos {
+            background-color: hsl(228deg 70% 28% / 10%);
+        }
+        .ListaContatos__lst {
+            width: 100%;
+            max-width: 450px;
+        }
+        .ListaContatos__lst li {
+            background-color: white;
+            padding: 20px 30px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        
+        .ListaContatos__lst li button {
+            float: right;
+            background-image: url(../img/trash.svg);
+            width: 30px;
+            height: 30px;
+            background-size: 22px;
+            background-position: center;
+            background-repeat: no-repeat;
+            border: 2px solid #de4b09;
+            border-radius: 100%;
+            background-color: rgba(219, 6, 6, 0.144);
+            cursor: pointer;
+        }
+        .ListaContatos__lst li h2 {
+            margin-bottom: 12px;
+            font-size: 18px;
+            font-weight: 600;
+        }
+        .ListaContatos__lst li p {
+            margin: 7px 0;
+        }
+        
+        
+        
